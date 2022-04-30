@@ -1,0 +1,45 @@
+#menu{
+list-style-type:none;
+margin:0;
+padding:0;
+}
+
+#menu li{
+margin:2px;
+padding:2px;
+border: 1px solid#cccccc;
+float:left;
+}
+
+#menu li a{
+display:block;
+width:200px;
+padding:10px 0;
+text-decoration:none;
+text-aling:center;
+front-size:20px;
+color:#ffffff
+background-color:#000000;
+}
+
+#menu li a:hover{
+color:#99cc00;
+background-color:#003366;
+}
+
+div#imagen{
+position:absolute;
+top:113px;
+left:100px;
+width:100px;
+height:100px;
+}
+
+div#titulo{
+position:absolute;
+top:30px;
+left:50px;
+width:50px
+height:50px;
+}          
+
